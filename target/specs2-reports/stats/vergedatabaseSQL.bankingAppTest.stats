@@ -1,0 +1,66 @@
+<vergedatabaseSQL.bankingAppTest-results timestamp="1436300829145"><result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:25)" id="-642244799"><stats time="901" expectations="1" failures="1" examples="1"></stats></result>
+</vergedatabaseSQL.bankingAppTest-results>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436300829161"><stats time="931" expectations="2" failures="1" successes="1" examples="2"></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-results timestamp="1436300877777"><result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:25)" id="-642244799"><stats time="479" expectations="1" failures="1" examples="1"></stats></result>
+</vergedatabaseSQL.bankingAppTest-results>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436300877783"><stats time="503" expectations="2" failures="1" successes="1" examples="2"></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-results timestamp="1436301121764"><result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:27)" id="-642244799"><stats time="472" expectations="1" failures="1" examples="1"></stats></result>
+</vergedatabaseSQL.bankingAppTest-results>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436301121770"><stats time="500" expectations="2" failures="1" successes="1" examples="2"></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-results timestamp="1436301160854"><result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:27)" id="-642244799"><stats time="497" expectations="1" failures="1" examples="1"></stats></result>
+</vergedatabaseSQL.bankingAppTest-results>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436301160862"><stats time="525" expectations="2" failures="1" successes="1" examples="2"></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-results timestamp="1436301181661"><result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:27)" id="-642244799"><stats time="498" expectations="1" failures="1" examples="1"></stats></result>
+</vergedatabaseSQL.bankingAppTest-results>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436301181670"><stats time="523" expectations="2" failures="1" successes="1" examples="2"></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436301202055"><stats time="561" expectations="2" successes="2" examples="2"><trend><stats time="561" failures="-1" successes="1"></stats></trend></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-results timestamp="1436301529284"><result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:35)" id="-1804173087"><stats time="77" expectations="1" failures="1" examples="1"></stats></result>
+<result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:42)" id="-679734078"><stats time="71" expectations="1" failures="1" examples="1"></stats></result>
+<result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:63)" id="-1448542872"><stats time="358" expectations="1" failures="1" examples="1"></stats></result>
+</vergedatabaseSQL.bankingAppTest-results>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436301529294"><stats time="467" expectations="7" failures="3" successes="4" examples="7"><trend><stats time="467" expectations="5" failures="3" successes="2" examples="5"></stats></trend></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-results timestamp="1436304698376"><result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:42)" id="-642244799"><stats time="530" expectations="1" failures="1" examples="1"></stats></result>
+<result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:48)" id="-642244799"><stats time="534" expectations="1" failures="1" examples="1"></stats></result>
+</vergedatabaseSQL.bankingAppTest-results>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436304698384"><stats time="570" expectations="3" failures="2" successes="1" examples="3"><trend><stats time="570" expectations="-4" failures="-1" successes="-3" examples="-4"></stats></trend></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-results timestamp="1436304871837"><result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:42)" id="-642244799"><stats time="544" expectations="1" failures="1" examples="1"></stats></result>
+<result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:48)" id="-642244799"><stats time="544" expectations="1" failures="1" examples="1"></stats></result>
+</vergedatabaseSQL.bankingAppTest-results>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436304871845"><stats time="579" expectations="3" failures="2" successes="1" examples="3"></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-results timestamp="1436364883813"><result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:42)" id="-642244799"><stats time="644" expectations="1" failures="1" examples="1"></stats></result>
+<result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:48)" id="-642244799"><stats time="645" expectations="1" failures="1" examples="1"></stats></result>
+</vergedatabaseSQL.bankingAppTest-results>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436364883845"><stats time="679" expectations="3" failures="2" successes="1" examples="3"></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-results timestamp="1436365123807"><result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:51)" id="-642244799"><stats time="471" expectations="1" failures="1" examples="1"></stats></result>
+<result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:57)" id="-642244799"><stats time="473" expectations="1" failures="1" examples="1"></stats></result>
+</vergedatabaseSQL.bankingAppTest-results>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436365123826"><stats time="496" expectations="3" failures="2" successes="1" examples="3"></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-results timestamp="1436365255387"><result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:51)" id="-642244799"><stats time="464" expectations="1" failures="1" examples="1"></stats></result>
+<result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:57)" id="-642244799"><stats time="466" expectations="1" failures="1" examples="1"></stats></result>
+</vergedatabaseSQL.bankingAppTest-results>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436365255402"><stats time="492" expectations="3" failures="2" successes="1" examples="3"></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-results timestamp="1436365398083"><result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:44)" id="-642244799"><stats time="487" expectations="1" failures="1" examples="1"></stats></result>
+<result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:50)" id="-642244799"><stats time="487" expectations="1" failures="1" examples="1"></stats></result>
+</vergedatabaseSQL.bankingAppTest-results>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436365398103"><stats time="511" expectations="3" failures="2" successes="1" examples="3"></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-results timestamp="1436365450736"><result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:50)" id="-642244799"><stats time="530" expectations="1" failures="1" examples="1"></stats></result>
+</vergedatabaseSQL.bankingAppTest-results>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436365450747"><stats time="558" expectations="3" failures="1" successes="2" examples="3"><trend><stats time="558" failures="-1" successes="1"></stats></trend></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-results timestamp="1436367205581"><result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:50)" id="-642244799"><stats time="571" expectations="1" failures="1" examples="1"></stats></result>
+</vergedatabaseSQL.bankingAppTest-results>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436367205590"><stats time="597" expectations="3" failures="1" successes="2" examples="3"></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436367523635"><stats time="570" expectations="3" successes="3" examples="3"><trend><stats time="570" failures="-1" successes="1"></stats></trend></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436367602084"><stats time="571" expectations="3" successes="3" examples="3"></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-results timestamp="1436367678963"><result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:65)" id="-694533447"><stats time="26" expectations="1" failures="1" examples="1"></stats></result>
+</vergedatabaseSQL.bankingAppTest-results>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436367678972"><stats time="626" expectations="5" failures="1" successes="4" examples="5"><trend><stats time="626" expectations="2" failures="1" successes="1" examples="2"></stats></trend></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436367748601"><stats time="626" expectations="5" successes="5" examples="5"><trend><stats time="626" failures="-1" successes="1"></stats></trend></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-results timestamp="1436369801425"><result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:86)" id="-1448542872"><stats time="7" expectations="1" failures="1" examples="1"></stats></result>
+</vergedatabaseSQL.bankingAppTest-results>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436369801471"><stats time="1042" expectations="10" failures="1" successes="9" examples="10"><trend><stats time="1042" expectations="5" failures="1" successes="4" examples="5"></stats></trend></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-results timestamp="1436369872255"><result location="vergedatabaseSQL.bankingAppTest (vergeTests.scala:86)" id="-1448542872"><stats time="6" expectations="1" failures="1" examples="1"></stats></result>
+</vergedatabaseSQL.bankingAppTest-results>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436369872278"><stats time="540" expectations="10" failures="1" successes="9" examples="10"></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436369904125"><stats time="575" expectations="10" successes="10" examples="10"><trend><stats time="575" failures="-1" successes="1"></stats></trend></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436373940646"><stats time="904" expectations="10" successes="10" examples="10"></stats></vergedatabaseSQL.bankingAppTest-stats>
+<vergedatabaseSQL.bankingAppTest-stats timestamp="1436377850206"><stats time="688" expectations="10" successes="10" examples="10"></stats></vergedatabaseSQL.bankingAppTest-stats>

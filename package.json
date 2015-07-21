@@ -1,0 +1,8 @@
+{
+  "name": "vergepostgresdatabase",
+  "description": "an app that pulls data from the verge publication",
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.10.x"
+  }
+}

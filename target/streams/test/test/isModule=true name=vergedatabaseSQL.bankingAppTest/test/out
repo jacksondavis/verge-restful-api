@@ -1,0 +1,27 @@
+[0m[[0minfo[0m] [0mbankingAppTest[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mThe service should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m return a 'pong' response for GET requests to /ping[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m handle a response for GET requests to /articles[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m handle a response for GET requests to /title[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m handle a response for GET requests to /content[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m handle a response for GET requests to /article[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mWhen we send a title string and a sequence of articles, titleSearch should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m return a sequence of articles containing the title[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mWhen we send a content string and a sequence of articles, contentSearch should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m return a sequence of articles containing the content[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mWhen we send an ID string and a sequence of articles, idSearch should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m return a sequence of articles containing the content[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mWhen we send an invalid ID string and a sequence of articles, idSearch should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m return an empty sequence[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mWhen we send a sequence of articles, articlesToJson should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m return a JSON Object[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0mTotal for specification bankingAppTest[0m
+[0m[[0minfo[0m] [0m[36mFinished in 688 ms[0m[0m
+[0m[[0minfo[0m] [0m[36m[0m[36m10 examples, 0 failure, 0 error[0m[0m
